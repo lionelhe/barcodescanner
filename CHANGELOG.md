@@ -1,5 +1,9 @@
 # Change Log
 
+## v8.1.2
+
+- Add a npm publish on barcodescanner-ec corresponding with plugin name
+
 ## v8.1.1
 
 - Update name complie() to implementation() for publish npm
