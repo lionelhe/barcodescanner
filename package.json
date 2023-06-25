@@ -1,9 +1,9 @@
 {
-  "name": "@starley/barcodescanner-sdk31",
+  "name": "barcodescanner-ec",
   "version": "8.1.2",
   "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
   "cordova": {
-    "id": "phonegap-plugin-barcodescanner",
+    "id": "phonegap-plugin-barcodescanner-ec",
     "platforms": [
       "ios",
       "android",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StarleyDev/barcodescanner-sdk31"
+    "url": "git+https://github.com/lionelhe/barcodescanner"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -45,9 +45,9 @@
   "author": "Adobe PhoneGap Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StarleyDev/barcodescanner-sdk31/issues"
+    "url": "https://github.com/lionelhe/barcodescanner/issues"
   },
-  "homepage": "https://github.com/StarleyDev/barcodescanner-sdk31#readme",
+  "homepage": "https://github.com/lionelhe/barcodescanner#readme",
   "scripts": {
     "test": "jasmine-node --color spec"
   },
